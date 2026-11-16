@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = "An updated approach to ensuring you've got the best technical SEO for your Jekyll site."
   spec.homepage      = "https://github.com/clayton/jekyll-seo-audit"
   spec.license       = "MIT"
-  spec.required_ruby_version = ">= 2.4.0"
+  spec.required_ruby_version = ">= 2.5.0"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
